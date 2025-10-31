@@ -3,5 +3,8 @@ A Mozilla Firefox extension that manages and controls automatic redirection to S
 
 This extension is particularly useful for administrators who manage multiple Netskope tenants. It prevents automatic redirection to SSO, allowing login with a local administrator account instead. Users can configure which tenants should redirect to SSO and which should open the local account login page (`https://example.goskope.com/locallogin`).
 
+## Demo
+https://github.com/user-attachments/assets/54523e5e-f653-4a81-ae9d-1c94c1c8a19d
+
 ## Known Issues
 - The extension cannot currently handle directly accessing a non-login page for the Netskope Administrator Portal, e.g., clicking a saved bookmark for **Advanced Analytics** will still redirect to SSO.
