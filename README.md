@@ -1,7 +1,7 @@
 # Netskope Admin SSO Control for Firefox
 A Mozilla Firefox extension that manages and controls automatic redirection to Single Sign-On (SSO) for the Netskope Administrator Portal.
 
-This extension is particularly useful for administrators who manage multiple Netskope tenants. It prevents automatic redirection to SSO, allowing login with a local administrator account instead. Users can configure which tenants should redirect to SSO and which should open the local account login page.
+This extension is particularly useful for administrators who manage multiple Netskope tenants and prefer local login. It prevents automatic redirection to SSO, allowing login with a local administrator account instead. Users can configure which tenants should redirect to SSO and which should open the local account login page.
 
 ## Usage
 
