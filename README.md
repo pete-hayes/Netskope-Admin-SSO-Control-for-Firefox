@@ -19,3 +19,9 @@ https://github.com/user-attachments/assets/54523e5e-f653-4a81-ae9d-1c94c1c8a19d
 
 ## Known Issues
 - The extension cannot currently handle directly accessing a non-login page for the Netskope Administrator Portal, e.g., clicking a saved bookmark for **Advanced Analytics** will still redirect to SSO.
+
+## License
+Licensed under MIT — free to use, modify, and share, with no warranty.
+
+## Disclaimer
+This project is **not affiliated with or supported by Netskope**. It may be incomplete, outdated, or inaccurate. Use at your own risk. 
